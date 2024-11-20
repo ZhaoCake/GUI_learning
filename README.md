@@ -16,3 +16,9 @@ The first one is a picture downloader.
 ![image](https://github.com/user-attachments/assets/2c500b65-81dd-4016-8cec-a4b6147711c8)
 
 应该不会再碰图形应用了，除了发电的时候
+
+---
+
+24/11/21
+
+我想应该进行一次重写，至少应该有一次文件结构上的重构。或许也可以支持更加丰富的功能，或者更加多样的平台。值得考虑。
